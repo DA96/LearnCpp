@@ -1,3 +1,5 @@
+// Passing array as formal parameter in 3 ways
+
 #include<iostream>
 using namespace std;
 
